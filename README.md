@@ -29,4 +29,3 @@ In this project, we use BigQuery to:
 
 <img width="1396" alt="Screenshot 2023-09-15 at 10 06 49" src="https://github.com/redjules/Exploring-Ecommerce-Dataset-with-SQL-in-Google-BigQuery/assets/106017493/7de52dd7-51cf-4583-96f2-80694a10dcdf">
 
-<img width="1355" alt="Screenshot 2023-09-15 at 10 08 36" src="https://github.com/redjules/Exploring-Ecommerce-Dataset-with-SQL-in-Google-BigQuery/assets/106017493/da37aaf1-dc48-486e-812c-332e59b16653">
