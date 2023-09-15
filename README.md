@@ -19,7 +19,7 @@ In this project, we use BigQuery to:
 
 # Snapshots
 
-<img width="794" alt="Screenshot 2023-09-15 at 09 57 44" src="https://github.com/redjules/Exploring-Ecommerce-Dataset-with-SQL-in-Google-BigQuery/assets/106017493/054a9a63-47d3-4bec-9026-bc1cee8b4ea8">
+<img width="1425" alt="Screenshot 2023-09-15 at 10 10 38" src="https://github.com/redjules/Exploring-Ecommerce-Dataset-with-SQL-in-Google-BigQuery/assets/106017493/bb7ecc8f-26c2-4717-87a8-29a8bf05c36e">
 
 <img width="1419" alt="Screenshot 2023-09-15 at 10 01 18" src="https://github.com/redjules/Exploring-Ecommerce-Dataset-with-SQL-in-Google-BigQuery/assets/106017493/384b9bb6-a84e-4376-bdd5-dad78aa62e74">
 
